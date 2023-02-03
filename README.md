@@ -2,7 +2,7 @@
     <b><a href="https://github.com/katzer/cordova-plugin-background-mode/tree/example">SAMPLE APP</a> :point_right:</b>
 </p>
 
-# Cordova Background Plugin enhanced for UVE Solutions
+# Cordova Background Plugin enhanced with Android fix
 
 Plugin for the [Cordova][cordova] framework to perform infinite background execution.
 
